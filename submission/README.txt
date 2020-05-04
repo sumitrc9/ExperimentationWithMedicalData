@@ -1,4 +1,4 @@
-ReadMe for 4641 Final Project:
+ReadMe:
 
 Software Depdencies:
 Install Python and Anaconda Packages
